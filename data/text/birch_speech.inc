@@ -1,14 +1,17 @@
 gText_Birch_Welcome::
-	.string "Maledetto sexy Barce\p"
-	.string "Welcome to the world of POKéMON!\p"
-	.string "My name is BIRCH.\p"
-	.string "But everyone calls me the POKéMON\n"
-	.string "PROFESSOR.\p"
+	.string "Benvenuto giovane avventuriero \p"
+	.string "Benvnuto nel mondo dei Pokimons \p"
+	.string "Il mio è... va bhè già lo saprai... \p"
+	.string "Ma tutti mi chiamano il \n"
+	.string "Pokimons lover. \p"
+	.string "Guarda cosa ho cagato oggi,\n"
+	.string "ha fatto molto male \p"
 	.string "$"
 
 gText_Birch_Pokemon::
-	.string "This is what we call a “POKéMON.”\p"
-	.string "\n"
+	.string "Te lo sto a fa vedè perchè \n"
+	.string "assomigia molto, \n"
+	.string "ma non lo è, ad un Pokimon \p"
 	.string "$"
 
 gText_Birch_MainSpeech::
